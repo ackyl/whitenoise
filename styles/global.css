@@ -200,6 +200,12 @@ body {
   font-weight: lighter;
 }
 
+@media only screen and (max-width: 600px) {
+  .wavy span {
+    font-size: 40px;
+  }
+}
+
 @keyframes flip {
   0%,
   50% {

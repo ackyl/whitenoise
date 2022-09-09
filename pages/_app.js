@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Whitenoise Wishes</title>
+        <title>White Noise Wishes</title>
         <link rel="icon" href="/icon.png" />
       </Head>
       <main className="main-container">
